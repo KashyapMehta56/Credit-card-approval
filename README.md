@@ -1,1 +1,1 @@
-# Credit-card-approval
+This is a classification problem in machine learning. In this project, I used various classification models such as logistic regression, random forest, and decision trees. I conducted various data analyses on different columns of the dataset. I utilized various libraries to perform these tasks, including matplotlib, numpy, and pandas.
